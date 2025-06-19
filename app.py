@@ -75,7 +75,7 @@ def messageToTelegram():
     size = len(data)
 
     token = "7561650912:AAEszx8o_Aki34_TCRVh8vCXyoVdQCjZxK8"
-    chat_id = "@python_flash_bot"
+    chat_id = "905968220"
     cart_list = []
 
     for i in range(size-1):
